@@ -1,0 +1,182 @@
+CodeAlpha - Basic Network Sniffer
+======================================================================
+Packet #1
+Time              : 2026-07-25 16:39:22
+Source IP         : 192.168.1.9
+Destination IP    : 52.168.117.168
+Protocol          : TCP
+Packet Length     : 172 Bytes
+Source Port       : 64547
+Destination Port  : 443
+------------------------------------------------------------
+Packet #2
+Time              : 2026-07-25 16:39:22
+Source IP         : 192.168.1.9
+Destination IP    : 52.168.117.168
+Protocol          : TCP
+Packet Length     : 3423 Bytes
+Source Port       : 64547
+Destination Port  : 443
+------------------------------------------------------------
+Packet #3
+Time              : 2026-07-25 16:39:22
+Source IP         : 52.168.117.168
+Destination IP    : 192.168.1.9
+Protocol          : TCP
+Packet Length     : 54 Bytes
+Source Port       : 443
+Destination Port  : 64547
+------------------------------------------------------------
+Packet #4
+Time              : 2026-07-25 16:39:22
+Source IP         : 52.168.117.168
+Destination IP    : 192.168.1.9
+Protocol          : TCP
+Packet Length     : 54 Bytes
+Source Port       : 443
+Destination Port  : 64547
+------------------------------------------------------------
+Packet #5
+Time              : 2026-07-25 16:39:22
+Source IP         : 52.168.117.168
+Destination IP    : 192.168.1.9
+Protocol          : TCP
+Packet Length     : 153 Bytes
+Source Port       : 443
+Destination Port  : 64547
+------------------------------------------------------------
+Packet #6
+Time              : 2026-07-25 16:39:22
+Source IP         : 192.168.1.9
+Destination IP    : 52.168.117.168
+Protocol          : TCP
+Packet Length     : 54 Bytes
+Source Port       : 64547
+Destination Port  : 443
+------------------------------------------------------------
+Packet #7
+Time              : 2026-07-25 16:39:22
+Source IP         : 104.18.41.41
+Destination IP    : 192.168.1.9
+Protocol          : UDP
+Packet Length     : 663 Bytes
+Source Port       : 443
+Destination Port  : 60512
+------------------------------------------------------------
+Packet #8
+Time              : 2026-07-25 16:39:23
+Source IP         : 192.168.1.9
+Destination IP    : 104.18.41.41
+Protocol          : UDP
+Packet Length     : 87 Bytes
+Source Port       : 60512
+Destination Port  : 443
+------------------------------------------------------------
+Packet #9
+Time              : 2026-07-25 16:39:24
+Source IP         : 20.184.175.20
+Destination IP    : 192.168.1.9
+Protocol          : TCP
+Packet Length     : 54 Bytes
+Source Port       : 443
+Destination Port  : 61121
+------------------------------------------------------------
+Packet #10
+Time              : 2026-07-25 16:39:24
+Source IP         : 23.206.197.161
+Destination IP    : 192.168.1.9
+Protocol          : UDP
+Packet Length     : 73 Bytes
+Source Port       : 443
+Destination Port  : 65016
+------------------------------------------------------------
+Packet #11
+Time              : 2026-07-25 16:39:24
+Source IP         : 192.168.1.9
+Destination IP    : 23.206.197.161
+Protocol          : UDP
+Packet Length     : 74 Bytes
+Source Port       : 65016
+Destination Port  : 443
+------------------------------------------------------------
+Packet #12
+Time              : 2026-07-25 16:39:24
+Source IP         : 192.168.1.9
+Destination IP    : 23.206.197.161
+Protocol          : UDP
+Packet Length     : 71 Bytes
+Source Port       : 65016
+Destination Port  : 443
+------------------------------------------------------------
+Packet #13
+Time              : 2026-07-25 16:39:25
+Source IP         : 23.206.197.161
+Destination IP    : 192.168.1.9
+Protocol          : UDP
+Packet Length     : 66 Bytes
+Source Port       : 443
+Destination Port  : 65016
+------------------------------------------------------------
+Packet #14
+Time              : 2026-07-25 16:39:25
+Source IP         : 192.168.1.9
+Destination IP    : 23.206.197.161
+Protocol          : UDP
+Packet Length     : 71 Bytes
+Source Port       : 65016
+Destination Port  : 443
+------------------------------------------------------------
+Packet #15
+Time              : 2026-07-25 16:39:25
+Source IP         : 23.206.197.161
+Destination IP    : 192.168.1.9
+Protocol          : UDP
+Packet Length     : 66 Bytes
+Source Port       : 443
+Destination Port  : 65016
+------------------------------------------------------------
+Packet #16
+Time              : 2026-07-25 16:39:25
+Source IP         : 192.168.1.9
+Destination IP    : 23.206.197.161
+Protocol          : UDP
+Packet Length     : 74 Bytes
+Source Port       : 65016
+Destination Port  : 443
+------------------------------------------------------------
+Packet #17
+Time              : 2026-07-25 16:39:25
+Source IP         : 23.206.197.161
+Destination IP    : 192.168.1.9
+Protocol          : UDP
+Packet Length     : 66 Bytes
+Source Port       : 443
+Destination Port  : 65016
+------------------------------------------------------------
+Packet #18
+Time              : 2026-07-25 16:39:25
+Source IP         : 192.168.1.9
+Destination IP    : 23.206.197.161
+Protocol          : UDP
+Packet Length     : 71 Bytes
+Source Port       : 65016
+Destination Port  : 443
+------------------------------------------------------------
+Packet #19
+Time              : 2026-07-25 16:39:25
+Source IP         : 23.206.197.161
+Destination IP    : 192.168.1.9
+Protocol          : UDP
+Packet Length     : 66 Bytes
+Source Port       : 443
+Destination Port  : 65016
+------------------------------------------------------------
+Packet #20
+Time              : 2026-07-25 16:39:25
+Source IP         : 192.168.1.9
+Destination IP    : 23.206.197.161
+Protocol          : UDP
+Packet Length     : 71 Bytes
+Source Port       : 65016
+Destination Port  : 443
+------------------------------------------------------------
