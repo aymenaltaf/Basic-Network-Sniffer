@@ -232,28 +232,19 @@ Install them with:
 pip install -r requirements.txt
 ```
 
-
-# 📸 Screenshots
-
-Place screenshots inside the `screenshots/` folder.
+## 📸 Screenshots
 
 ### Main Menu
 
-```
-screenshots/menu.png
-```
+![Main Menu](menu.png)
 
 ### Packet Capture
 
-```
-screenshots/capture.png
-```
+![Packet Capture](capture.png)
 
 ### Final Summary
 
-```
-screenshots/summary.png
-```
+![Final Summary](summary.png)
 
 
 # 🚀 Future Enhancements
