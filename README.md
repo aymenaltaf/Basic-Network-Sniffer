@@ -1,9 +1,9 @@
-# 🛰️ Basic Network Sniffer
+# Basic Network Sniffer
 
 A Python-based **Network Packet Sniffer** built using **Scapy** that captures, analyzes, and stores live network traffic. The application enables users to monitor packets in real time, filter protocols, generate reports, and save captured traffic for further analysis.
 
 
-# 📖 Project Description
+# Project Description
 
 **Basic Network Sniffer** is a command-line cybersecurity tool developed in Python to capture and analyze live network packets from a selected network interface.
 
@@ -22,23 +22,22 @@ Captured packets are automatically saved in multiple formats, including **TXT lo
 This project was developed as part of a **Cybersecurity Internship** to demonstrate practical knowledge of packet sniffing, networking concepts, and Python programming.
 
 
-# ✨ Features
+# Features
 
-- ✅ Capture live network packets
-- ✅ Support TCP, UDP, ICMP, and All IP packets
-- ✅ Protocol-based packet filtering
-- ✅ Display packet details in real time
-- ✅ Log captured packets to a TXT file
-- ✅ Export packet information to CSV
-- ✅ Save packets in PCAP format
-- ✅ Generate protocol statistics
-- ✅ Measure capture performance
-- ✅ Display a network traffic summary
-- ✅ Colored terminal interface using Colorama
-- ✅ Simple and beginner-friendly command-line interface
+-  Capture live network packets
+-  Support TCP, UDP, ICMP, and All IP packets
+-  Protocol-based packet filtering
+-  Display packet details in real time
+-  Log captured packets to a TXT file
+-  Export packet information to CSV
+-  Save packets in PCAP format
+-  Generate protocol statistics
+-  Measure capture performance
+-  Display a network traffic summary
+-  Colored terminal interface using Colorama
+-  Simple and beginner-friendly command-line interface
 
-
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -51,7 +50,7 @@ This project was developed as part of a **Cybersecurity Internship** to demonstr
 | Time | Performance Measurement |
 
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 BasicNetworkSniffer/
@@ -69,9 +68,9 @@ BasicNetworkSniffer/
 ```
 
 
-# ⚙️ Installation
+# Installation
 
-## 1️⃣ Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/BasicNetworkSniffer.git
@@ -80,21 +79,21 @@ git clone https://github.com/your-username/BasicNetworkSniffer.git
 Or download the ZIP file.
 
 
-## 2️⃣ Navigate to the Project Folder
+## Navigate to the Project Folder
 
 ```bash
 cd BasicNetworkSniffer
 ```
 
 
-## 3️⃣ Install Required Packages
+## Install Required Packages
 
 ```bash
 pip install -r requirements.txt
 ```
 
 
-# ▶️ Running the Application
+# Running the Application
 
 Start the application using:
 
@@ -105,7 +104,7 @@ python main.py
 > **Note:** Administrator (Windows) or Root (Linux/macOS) privileges may be required to capture live network packets.
 
 
-# 📋 Application Menu
+# Application Menu
 
 ```text
 ===============================
@@ -121,7 +120,7 @@ Enter your choice:
 ```
 
 
-# 📊 Sample Output
+# Sample Output
 
 ```text
 ==============================================================
@@ -140,7 +139,7 @@ Destination Port  : 443
 ```
 
 
-# 📈 Network Statistics
+# Network Statistics
 
 After packet capture, the program displays protocol statistics.
 
@@ -158,7 +157,7 @@ Other Packets : 0
 ```
 
 
-# ⚡ Capture Performance
+# Capture Performance
 
 The application also measures capture performance.
 
@@ -176,7 +175,7 @@ Packets/Second  : 2.86
 ```
 
 
-# 📄 Generated Files
+# Generated Files
 
 | File | Description |
 |------|-------------|
@@ -185,7 +184,7 @@ Packets/Second  : 2.86
 | `captured_packets.pcap` | Packet capture file for Wireshark |
 
 
-# 📚 Networking Concepts Covered
+# Networking Concepts Covered
 
 This project demonstrates practical implementation of:
 
@@ -204,7 +203,7 @@ This project demonstrates practical implementation of:
 - Basic Cybersecurity Monitoring
 
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 By completing this project, you will understand:
 
@@ -217,7 +216,7 @@ By completing this project, you will understand:
 - Fundamentals of network monitoring using Python
 
 
-# 📦 Requirements
+# Requirements
 
 Install the required libraries:
 
@@ -232,7 +231,7 @@ Install them with:
 pip install -r requirements.txt
 ```
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Menu
 
@@ -247,29 +246,25 @@ pip install -r requirements.txt
 ![Final Summary](summary.png)
 
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 Possible improvements include:
 
-- 🎨 Graphical User Interface (GUI)
-- 📊 Live Network Dashboard
-- 🔍 Advanced Packet Search & Filtering
-- 🌐 DNS Hostname Resolution
-- 🖥️ MAC Address Detection
-- 📄 PDF Report Generation
-- 🚨 Suspicious Traffic Detection
-- 📈 Real-Time Graphs & Charts
-- ⚡ Multi-threaded Packet Capture
-- 📧 Email Alerts for Threat Detection
+-  Graphical User Interface (GUI)
+-  Live Network Dashboard
+-  Advanced Packet Search & Filtering
+-  DNS Hostname Resolution
+-  MAC Address Detection
+-  PDF Report Generation
+-  Suspicious Traffic Detection
+-  Real-Time Graphs & Charts
+-  Multi-threaded Packet Capture
+-  Email Alerts for Threat Detection
 
 
-# 👨‍💻 Developed By
+# Developed By
 
 **Aymen Altaf**
-
-**Cybersecurity Intern**
-
-**Project:** Basic Network Sniffer By CodeAlpha
 
 **Programming Language:** Python
 
@@ -278,13 +273,13 @@ Possible improvements include:
 **Year:** 2026
 
 
-# 📜 License
+# License
 
 This project was developed for **educational and internship purposes**.
 
 You are welcome to use, modify, and improve this project for learning and non-commercial use.
 
 
-# 🙏 Acknowledgements
+
 
 Special thanks to the **CodeAlpha Cybersecurity Internship Program** for providing the opportunity to develop practical cybersecurity projects and strengthen hands-on networking skills.
